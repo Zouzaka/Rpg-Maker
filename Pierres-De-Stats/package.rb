@@ -1,6 +1,6 @@
 # Package description
 Package.new(
-	name: 'pierres-de-stats',
+	name: 'zouzaka-pierres-de-stats',
 	version: vsn(1, 0, 0),
 	authors: {'Zouzaka' => ''},
 	components: ['script.rb'],
