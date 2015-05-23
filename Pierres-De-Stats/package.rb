@@ -1,8 +1,8 @@
 # Package description
 Package.new(
-	name: 'zouzaka-pierres-de-stats',
+	name: 'zouzaka-stats-change',
 	version: vsn(1, 0, 0),
 	authors: {'Zouzaka' => ''},
 	components: ['script.rb'],
-	description: 'Changer les Stats grace a un objet specifique'
+	description: 'change stats with an object'
 )
